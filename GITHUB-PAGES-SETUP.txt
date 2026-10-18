@@ -1,0 +1,14 @@
+COMEBACK PRO — GitHub Pages setup
+
+1. Extract this ZIP.
+2. Open your GitHub repository: TANISHWebsite.
+3. Upload the CONTENTS of this extracted folder to the repository root (not the ZIP itself and not an extra enclosing folder).
+   The root should show: index.html, app.js, assets/ and style-related files.
+4. Commit the changes to the main branch.
+5. Open Settings > Pages.
+6. Under Build and deployment, choose "Deploy from a branch", branch "main", folder "/ (root)", then Save.
+7. Wait for deployment, then open:
+   https://iamyourdadson55-arch.github.io/TANISHWebsite/
+
+The index.html paths have been changed to relative paths for a project-site URL.
+If the page still looks unstyled, hard-refresh with Ctrl+F5 and check that assets/index-DF41IUI-.js and assets/index-DNG7CB8O.css exist in the repository under assets/.
